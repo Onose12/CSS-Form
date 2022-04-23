@@ -1,0 +1,2 @@
+# CSS-Form
+Day 4 of 300 days of code. It's getting intresting i must say. Started CSS today. For those who dont know CSS is like te make up artist for your site. It makes your site look beautiful. Remember the form the Tribute form I did. I went to apply the small CSS i learnt. I had a challenge though....I didn't want the list in blue color...I did everything i knew how to do it didn't change..so here I am humbly asking for help ooo.
